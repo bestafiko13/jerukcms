@@ -1,0 +1,4 @@
+<?PHP
+  echo"simple sebenernya gan jeruk CMS itu.<br/>";
+  echo"kita buat tema, pasang jadi";
+  echo"gampang kan???";
